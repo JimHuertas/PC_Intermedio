@@ -1,0 +1,10 @@
+#Vs code bullshit
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+#Ejecutables (Linux, Mac, Windows)
+**/a.out
+**/a.exe
